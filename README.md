@@ -1,4 +1,4 @@
-<h1 style="text-size:80px"> IND HEADER </h1>
+<h1 style="font-size:80px"> IND HEADER </h1>
 
 | Command | Description |
 | --- | --- |
